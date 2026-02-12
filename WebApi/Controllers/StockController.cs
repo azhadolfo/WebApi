@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebApi.Dtos.Stock;
+using WebApi.Helpers;
 using WebApi.Interfaces;
 using WebApi.Mappers;
 

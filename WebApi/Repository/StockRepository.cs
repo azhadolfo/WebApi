@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApi.Data;
 using WebApi.Dtos.Stock;
+using WebApi.Helpers;
 using WebApi.Interfaces;
 using WebApi.Models;
 

@@ -1,4 +1,5 @@
 ﻿using WebApi.Dtos.Stock;
+using WebApi.Helpers;
 using WebApi.Models;
 
 namespace WebApi.Interfaces;
